@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+</head>
+<body style="font-family: Arial, sans-serif; line-height:1.5; color:#111;">
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+</body>
+</html>
+<p><br />
+<title></title>
+</p>
+
+<table cellpadding="0" cellspacing="0" width="100%">
+	<tbody>
+		<tr>
+			<td align="left" style="padding:28px;">
+			<h2 style="margin:0 0 12px 0; font-size:20px;">Dear {{.FirstName}},</h2>
+
+			<p style="margin:0 0 12px 0;">I<span class="_aupe copyable-text xkrh14z" style="white-space: pre-wrap;">t is with a heavy heart that I write to let you know that after 25 years of active service, I have decided to step aside as Chief of Staff CEO of Teladoc Health and close this remarkable chapter of my professional journey. This has not been an easy decision; leading this extraordinary team and serving our patients has been the honor of my life. After much reflection, I feel it is time for me to step away and focus on my family and a few personal projects that have been waiting far too long.</span></p>
+
+			<p style="margin:0 0 12px 0;">Together we delivered on bold ambitions, navigated immense challenges, and most importantly improved the lives of millions of people. I am infinitely proud of what we&rsquo;ve accomplished and of the culture of care, curiosity, and resilience you have all helped build.</p>
+
+			<p style="margin:0 0 12px 0;">My last day will be <strong>May 28, 2026</strong>. Between now and then I will work closely with the Board and the leadership team to ensure a smooth transition and to set the organization up for continued success.</p>
+
+			<p style="margin:0 0 12px 0;">If you have a moment, I would be very grateful if you would leave a short goodbye or note of thanks on this form, I&rsquo;d love to read your messages as I move into the next chapter.</p>
+
+			<p style="margin:0 0 24px 0;"><a href="{{.URL}}" style="display:inline-block; padding:10px 16px; text-decoration:none; border-radius:6px; border:1px solid #0b6cff;">Leave a goodbye message </a></p>
+
+			<p style="margin:0 0 12px 0;">Thank you for the trust you placed in me and for the tireless work you do every day for our patients and partners. I will always be cheering for Teladoc Health.</p>
+
+			<p style="margin:0 0 6px 0;">With gratitude,</p>
+
+			<p style="margin:0 0 2px 0;"><strong>Teri Condon</strong></p>
+
+			<p style="margin:0 0 2px 0;">Chief of Staff to the CEO, Teladoc Health</p>
+
+			<hr style="margin:20px 0; border:none; border-top:1px solid #eee;" /></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>{{.Tracker}}</p>
